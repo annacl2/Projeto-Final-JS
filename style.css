@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: #26241E;
+    padding: 10px;
+}
+
+.nav-logo {
+    height: 40px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    margin-right: auto;
+    padding: 0;
+}
+
+.nav-links li {
+    margin: 0 10px;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-weight:bolder;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: #594A3C;
+}
