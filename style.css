@@ -34,3 +34,40 @@ body {
 .nav a:hover {
     background-color: #594A3C;
 }
+
+#container1 {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 1502px;
+    background-color: #DAD9D5;
+}
+
+.image {
+    width: 1502px;
+    height: 350px;
+}
+
+#image__home1 {
+    max-width: 500px;
+    margin-right: 100px;
+}
+
+#container2 {
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 1502px;
+    background-color: #DAD9D5;
+}
+
+#image__home2 {
+    max-width: 100px;
+    margin-right: 100px;
+}
+
+.text {
+    max-width: 200px;
+}
